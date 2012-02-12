@@ -1,3 +1,3 @@
 h1. Node Social
 
-A small test node application. At this point it's just a test to see how diffecult it would be to get an MVC style application up and running. Much harder than expected.
+A small personal test application written in Node.js. At this point it's just a test to take some first steps into the world of server side javascript. The basic task that I've tried to accomplish is to setup an MVC style application.
