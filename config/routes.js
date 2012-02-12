@@ -6,7 +6,8 @@
 module.exports = [
 
 	['/list/:id', ['lists', 'view']],
-	['/list', ['lists', 'index']],
-	['/', ['pages', 'home']]
+	['/list',     ['lists', 'index']],
+	['/welcome',  ['pages', 'index']],
+	['/',         ['pages', 'home']]
 
 ]
